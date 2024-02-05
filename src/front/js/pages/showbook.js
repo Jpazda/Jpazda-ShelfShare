@@ -12,7 +12,7 @@ export const Showbook = () => {
     console.log(store.singlebook);
   }, []);
   return (
-    <div className="main d-flex justify-content-center">
+    <div className="main d-flex">
       <div
         className="d-flex flex-row align-items-center justif-content-center w-50 info-container"
       >
